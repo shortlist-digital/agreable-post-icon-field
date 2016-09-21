@@ -1,0 +1,13 @@
+{
+    "name": "shortlist-digital/agreable-post-icon-field",
+    "description": "Add an icon to a post",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Sherrard",
+            "email": "jon@andthats.it"
+        }
+    ],
+    "require": {}
+}
